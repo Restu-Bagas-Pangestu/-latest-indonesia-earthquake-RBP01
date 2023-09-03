@@ -5,7 +5,7 @@ markdown guide: https://www.markdownguide.org/cheat-sheet/
 
 import setuptools
 
-with open("README.md, "r", encoding-"utf-8"") as fh:
+with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
@@ -22,7 +22,7 @@ classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
     "Operating System :: OS Independent",
-    "Development Status :: 5 - Production/Stable"
+    "Development Status :: 5 - Production/Stable",
 ],
 #package_dir={"": "src"},
 #packages=setuptools.find_packages(where="src"),
