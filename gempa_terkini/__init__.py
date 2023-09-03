@@ -81,3 +81,6 @@ def tamilkan_data(result):
 #if __name__ == '__main__':
 #    print('ini adalah package gempaterkini')
 # kode yang paling kiri di jalankan. jika tidak di paling pinggir tidak dijalankan
+if __name__ == '__main__':
+    result=ekstraksi_data()
+    tamilkan_data(result)
