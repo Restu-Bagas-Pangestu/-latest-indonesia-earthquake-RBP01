@@ -8,7 +8,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-name= "latestearthquake-indonesia",
+name= "latestearthquake-indonesia-RBP01",
 version= "0.1",
 authors="Restu Bagas Pangestu",
 authors_email="restu.bagas.pangestu@gmail.com",

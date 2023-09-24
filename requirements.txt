@@ -1,2 +1,3 @@
+build
 requests
-beautifulsoup4py -m pip install --upgrade twine
+beautifulsoup4
